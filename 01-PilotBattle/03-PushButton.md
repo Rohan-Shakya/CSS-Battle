@@ -1,4 +1,4 @@
-# 01 - Push Button
+# 03 - Push Button
 
 <img height="80px" src="https://cssbattle.dev/targets/3.png"/>
 
