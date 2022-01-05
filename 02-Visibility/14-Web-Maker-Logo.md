@@ -1,0 +1,9 @@
+# 14 - Web Maker Logo
+
+<img height="100px" src="https://cssbattle.dev/targets/14.png"/>
+
+## Solutions
+
+```
+<div class="l2"></div><div class="r1"></div><div class="l1"></div><div class="r2"></div><style>body{background: #F2F2B6}div{position:absolute;border: 75px solid transparent}.l1{border-top:130px solid #FF6D00;top:85;left:60}.r1{border-top:130px solid #FF6D00;top:10;left:190;transform:rotate(180deg)}.l2{border-top:130px solid #FD4602;top:85;left:80;}.r2{border-top:130px solid #FD4602;top:10;left:170;transform:rotate(180deg
+```
