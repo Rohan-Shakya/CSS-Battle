@@ -1,0 +1,36 @@
+# 06 - Missing Slice
+
+<img height="100px" src="https://cssbattle.dev/targets/6.png"/>
+
+## Solutions
+
+> Brute Force
+
+```
+<div><p>
+<style>
+  *{
+    background: #E3516E;
+  }
+  div{
+    width:200;
+    height:200;
+    margin:50 92;
+    border-radius:50%;
+    overflow:hidden;
+  }
+  p{
+    width:100;
+    height:100;
+    background:#51B5A9;
+    box-shadow:100px 0#FADE8B,0 100px#F7F3D7;
+    margin:0;
+  }
+</style>
+```
+
+> Optimal
+
+```
+<div><p><style>*{background:#E3516E}div{width:200;height:200;margin:50 92;border-radius:50%;overflow:hidden}p{width:100;height:100;background:#51B5A9;box-shadow:100px 0#FADE8B,0 100px#F7F3D7;margin:0
+```
